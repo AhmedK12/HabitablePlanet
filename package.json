@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "first node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedK12/HabitablePlanet.git"
+  },
+  "keywords": [
+    "kamaran"
+  ],
+  "author": "kamaran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AhmedK12/HabitablePlanet/issues"
+  },
+  "homepage": "https://github.com/AhmedK12/HabitablePlanet#readme",
+  "dependencies": {
+    "csv-parse": "^5.1.0"
+  },
+  "devDependencies": {}
+}
